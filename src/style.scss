@@ -162,5 +162,49 @@ body {
       object-fit: cover;
     }
   }
+
+  .data {
+    position: absolute;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-left: 80px;
+
+    &-title {
+      opacity: 0.3;
+      margin-bottom: 5px;
+    }
+
+    &-value {
+      margin-bottom: 30px;
+    }
+  }
+
+  .gradient {
+    position: absolute;
+    bottom: 60px;
+    right: 80px;
+    width: 7.291vw;
+
+    &-wrapper {
+      width: 7.291vw;
+      height: 10px;
+      background: linear-gradient(90deg, #4A738C 0%, #9FB3BF 50%, #E7B88F 100%);
+    }
+
+    &-text {
+      margin-top: 10px;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+  }
 }
 
