@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Px Grotesk';
+    src: url('/PxGroteskRegular.459b7624.woff2') format('woff2'),
+        url('/PxGroteskRegular.2f28ccde.woff') format('woff'),
+        url('/PxGroteskRegular.ed8edb32.svg#PxGroteskRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Px Grotesk';
+    src: url('/PxGrotesk-BoldItalic.d0324d33.woff2') format('woff2'),
+        url('/PxGrotesk-BoldItalic.53bec91e.woff') format('woff'),
+        url('/PxGrotesk-BoldItalic.3a857d5c.svg#PxGrotesk-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Px Grotesk';
+    src: url('/PxGrotesk-LightItalic.beca13e7.woff2') format('woff2'),
+        url('/PxGrotesk-LightItalic.7192b3d2.woff') format('woff'),
+        url('/PxGrotesk-LightItalic.e22eb00f.svg#PxGrotesk-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Px Grotesk';
+    src: url('/PxGrotesk-Light.fca85781.woff2') format('woff2'),
+        url('/PxGrotesk-Light.21619cd5.woff') format('woff'),
+        url('/PxGrotesk-Light.cdd7f293.svg#PxGrotesk-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Px Grotesk Screen';
+    src: url('/PxGrotesk-Screen.ec4a7be0.woff2') format('woff2'),
+        url('/PxGrotesk-Screen.a44869d8.woff') format('woff'),
+        url('/PxGrotesk-Screen.7bcdac59.svg#PxGrotesk-Screen') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Px Grotesk';
+    src: url('/PxGrotesk-Bold.ffbd0101.woff2') format('woff2'),
+        url('/PxGrotesk-Bold.9ca665fc.woff') format('woff'),
+        url('/PxGrotesk-Bold.760fbdd7.svg#PxGrotesk-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Px Grotesk';
+    src: url('/PxGrotesk-RegularItalic.052c4675.woff2') format('woff2'),
+        url('/PxGrotesk-RegularItalic.5623fc95.woff') format('woff'),
+        url('/PxGrotesk-RegularItalic.12dc132b.svg#PxGrotesk-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+
+
+/*# sourceMappingURL=/fonts.b7327172.css.map */
