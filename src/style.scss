@@ -33,10 +33,6 @@ body {
 
   .wrapper {
     overflow: hidden;
-
-    span {
-      display: block;
-    }
   }
 
   header {
@@ -49,10 +45,12 @@ body {
 
     .logo {
       margin-left: 80px;
+      overflow: hidden;
     }
 
     .credits {
       margin-right: 80px;
+      overflow: hidden;
     }
   }
 
@@ -115,10 +113,39 @@ body {
       line-height: 18px;
       justify-content: space-between;
 
+      span {
+        display: block;
+      }
+
       .right {
         text-align: right;
       }
     }
+  }
+
+  .content-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    font-size: 3.125vw;
+    line-height: 4.166vw;
+    font-weight: 300;
+
+    span {
+      display: inline-block;
+    }
+
+    .wrapper {
+      display: block;
+      overflow: hidden;
+    }
+
   }
 
 
